@@ -45,7 +45,7 @@ This project demonstrates how to control an **LED on an ESP32** board using a **
 
 ## 📸 Screenshots
 
-![Project Screenshot](images/example.png)
+![Project Screenshot](example.png)
 
 ## 💡 How It Works
 
